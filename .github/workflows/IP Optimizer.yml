@@ -39,8 +39,8 @@ jobs:
 
     - name: Commit results
       run: |
-        git config user.name "AbaloneHunter"
-        git config user.email "codger.gg@gmail.com"
+        git config user.name "qq601359558"
+        git config user.email "qq601359558@126.com"
         git add results/
         git commit -m "Auto: Update optimized IPs"
         git push
